@@ -8,7 +8,7 @@ int main()
         {
             cout<<"* ";
         }
-        for(int k=1; k<= i+i+i+i-3  ; k++)
+        for(int k=1; k<= 4*i-3  ; k++)
         {
             cout<<" ";
         }
@@ -26,7 +26,7 @@ int main()
         {
             cout<<"* ";
         }
-        for(int k=1; k<=21-i-i-i-i; k++)
+        for(int k=1; k<=21- 4*i; k++)
         {
             cout<<" ";
         }
